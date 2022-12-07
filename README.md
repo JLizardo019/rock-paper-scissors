@@ -1,5 +1,5 @@
 <div>
-  <h1>Rock Paper Scissors Game!</h1>
+  <h1>Rock Paper Scissors Game! (Julie's Version)</h1>
   <h4>Click 
     <a href="https://rijuth.hashnode.dev/develop-your-own-github-readme-game">here </a>to read my article on building your own game!
   </h4>
